@@ -2,12 +2,7 @@
  This is Keanu checking in
 # INFOAPP
 
-This is GLory's contribution.
-
-This is quite new..
-
-Some new text
-
+Joseph; Glory and Keanu - collaborators.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
